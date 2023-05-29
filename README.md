@@ -1,5 +1,6 @@
 # restaurant-chatbot
 AI NLP system for a restaurant chatbot
+Uses NLTK and sklearn libraries
 
 This application uses natural language processing and AI to act as the operator of a pizza restaurant's phone line. The main functionality includes:
 - Taking a customer's order
