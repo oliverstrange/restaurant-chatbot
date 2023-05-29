@@ -7,6 +7,8 @@ This application uses natural language processing and AI to act as the operator 
 - Making small talk with customers
 - Answering FAQs about the restaurant
 - Providing appropriate responses when an answer cannot be found, based on what kind of question the user asked
+- Identity management, remembering a user's name for a more personal experience and allowing a user to change it mid conversation
+- Sentiment analysis, providing appropriate responses based on the percieved mood of the user
 
 The AI used in this application allows it to categorise queries made by the user, followed by using similarity metrics to match it to appropriate responses. This allows it to respond even if the answer to the user's question is not stored in the database.
 
